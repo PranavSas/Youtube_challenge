@@ -5,7 +5,7 @@ from typing import Sequence
 
 
 class CommandException(Exception):
-    """A class used to represent a wrong command exception."""
+    """  University of Bristol   A class used to represent a wrong command exception.        """
     pass
 
 
